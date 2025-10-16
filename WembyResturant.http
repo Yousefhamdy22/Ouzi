@@ -1,0 +1,6 @@
+@WembyResturant_HostAddress = http://localhost:5236
+
+GET {{WembyResturant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

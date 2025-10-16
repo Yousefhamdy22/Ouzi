@@ -1,0 +1,33 @@
+﻿# Ignore Visual Studio temporary files, build results, and user files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+.vs/
+*.log
+*.pdb
+*.cache
+
+# .NET Core
+project.lock.json
+artifacts/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Keep important project folders (uncomment/add as needed)
+!Controllers/
+!Models/
+!Domain/
+!Application/
+!Infrastructure/
+!Services/
